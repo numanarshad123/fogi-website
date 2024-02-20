@@ -1,0 +1,47 @@
+.btn-clr{
+    background-color: #7aaa49 !important;
+}
+.heading{
+    font-size:  70px;
+
+}
+.image_bb{
+    width: 80%;
+    border: 2px solid #7aaa49;
+    border-radius: 50%;
+}
+.osam{
+    font-size: 100px;
+    padding: 15px;
+    color: #7aaa49;
+}
+.price{
+    color: #7aaa49;
+}
+.nav-item{
+    margin-left: 30px;
+}
+.card img{
+    width: 100%;
+    height: 170px;
+}
+.foote{
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid black; */
+    height: 400px;
+    width: 100%;
+    padding: 0px auto;
+    margin-top: 150px;
+    padding-top: 150px;
+    background-color: rgb(245, 255, 254);
+    
+}
+.first{
+    margin: 0px;
+    padding: 0px;
+    justify-content: flex-start;
+}
+.square{
+    justify-content: space-between;
+}
